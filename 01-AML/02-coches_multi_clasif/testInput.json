@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "columns": [
+      "marca",
+      "modelo",
+      "version",
+      "startYear",
+      "endYear",
+      "cilindrada",
+      "cv",
+      "id_carroceria",
+      "pf",
+      "puertas",
+      "id_combustible",
+      "matriculacion",
+      "periodoDescripcion",
+      "Anno"
+    ],
+    "index": [0, 1, 2, 3],
+    "data": [
+      [
+        "Audi",
+        "A1",
+        "A1 1.0 TFSI design",
+        2015,
+        2018,
+        999,
+        95,
+        "Ber",
+        0,
+        3,
+        "G",
+        2015,
+        "4º trimestre",
+        2017
+      ],
+      [
+        "Audi",
+        "A1",
+        "A1 1.4 TDI Adrenalin",
+        2015,
+        2018,
+        1422,
+        90,
+        "Ber",
+        0,
+        3,
+        "D",
+        2017,
+        "4º trimestre",
+        2017
+      ],
+      [
+        "Audi",
+        "A1",
+        "A1 1.4 TDI Adrenalin S-tronic",
+        2015,
+        2018,
+        1422,
+        90,
+        "Ber",
+        0,
+        3,
+        "D",
+        2016,
+        "4º trimestre",
+        2017
+      ],
+      [
+        "Audi",
+        "A1",
+        "A1 1.0 TFSI design S-tronic",
+        2015,
+        2018,
+        999,
+        95,
+        "Ber",
+        0,
+        3,
+        "G",
+        2018,
+        "4º trimestre",
+        2017
+      ]
+    ]
+  }
+}
