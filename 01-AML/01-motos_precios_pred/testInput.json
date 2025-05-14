@@ -1,0 +1,34 @@
+{
+  "input_data": {
+    "columns": [
+      "fecha_matriculacion",
+      "periodoDescripcion",
+      "Anno",
+      "marca",
+      "modelo",
+      "Tipo",
+      "SubTipo"
+    ],
+    "index": [0, 1],
+    "data": [
+      [
+        2012,
+        "1º trimestre",
+        2021,
+        "ADIVA",
+        "AD 200 EMFI CABRIO",
+        "Motocicletas",
+        "SCOOTER"
+      ],
+      [
+        2004,
+        "3º trimestre",
+        2020,
+        "ADIVA",
+        "AD 125 CABRIO",
+        "Motocicletas",
+        "SCOOTER"
+      ]
+    ]
+  }
+}
