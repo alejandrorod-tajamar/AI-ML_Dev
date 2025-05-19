@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Predicción de precio de coche</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; }
+        form { margin-bottom: 2em; }
+        label { display: inline-block; margin-top: 1em; min-width: 180px; }
+        select, button { padding: 0.5em; margin-top: 0.5em; min-width: 180px; }
+        .form-row { display: flex; gap: 1em; margin-bottom: 1em; }
+        .resultado { font-size: 1.2em; color: #007700; margin-top: 2em; }
+        .form-title { font-weight: bold; margin-bottom: 0.5em; }
+        .form-subtitle { margin-bottom: 1em; }
+    </style>
+</head>
+<body>
+    <div class="form-title">SOLICITAR PRODUCTO</div>
+    <form method="post" action="/predecir">
+        <div class="form-row">
+            <label>Periodo de consulta de datos:
+                <select name="periodoDescripcion" required>
+                    {% for periodo in periodos %}
+                    <option value="{{ periodo }}">{{ periodo }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <div class="form-subtitle">
+            Para realizar la consulta, introduzca los datos del vehículo sobre el que desea obtener información:
+        </div>
+        <div class="form-row">
+            <label>Marca:
+                <select name="marca" required>
+                    {% for marca in marcas %}
+                    <option value="{{ marca }}">{{ marca }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Modelo:
+                <select name="modelo" required>
+                    {% for modelo in modelos %}
+                    <option value="{{ modelo }}">{{ modelo }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Combustible:
+                <select name="id_combustible" required>
+                    {% for combustible in combustibles %}
+                    <option value="{{ combustible }}">{{ combustible }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Versión:
+                <select name="version" required>
+                    {% for version in versiones %}
+                    <option value="{{ version }}">{{ version }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <div class="form-row">
+            <label>Año inicio:
+                <select name="startYear" required>
+                    {% for sy in start_years %}
+                    <option value="{{ sy }}">{{ sy }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Año fin:
+                <select name="endYear" required>
+                    {% for ey in end_years %}
+                    <option value="{{ ey }}">{{ ey }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Cilindrada:
+                <select name="cilindrada" required>
+                    {% for cc in cilindradas %}
+                    <option value="{{ cc }}">{{ cc }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>CV:
+                <select name="cv" required>
+                    {% for cv in cvs %}
+                    <option value="{{ cv }}">{{ cv }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <div class="form-row">
+            <label>Carrocería:
+                <select name="id_carroceria" required>
+                    {% for carroceria in id_carrocerias %}
+                    <option value="{{ carroceria }}">{{ carroceria }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>PF:
+                <select name="pf" required>
+                    {% for pf in pfs %}
+                    <option value="{{ pf }}">{{ pf }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Puertas:
+                <select name="puertas" required>
+                    {% for p in puertas %}
+                    <option value="{{ p }}">{{ p }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Matriculación:
+                <select name="matriculacion" required>
+                    {% for m in matriculaciones %}
+                    <option value="{{ m }}">{{ m }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Año (Anno):
+                <select name="Anno" required>
+                    {% for a in annos %}
+                    <option value="{{ a }}">{{ a }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <div class="form-row">
+            <button type="submit">Predecir precio</button>
+        </div>
+    </form>
+    {% if prediccion %}
+    <div class="resultado">
+        <strong>Precio predicho:</strong> {{ prediccion }}
+    </div>
+    {% endif %}
+</body>
+</html>
