@@ -9,7 +9,8 @@ import decimal
 from dotenv import load_dotenv
 
 # Cargar variables de entorno desde el archivo .env
-load_dotenv(dotenv_path=os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
+dotenv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', '.env'))
+load_dotenv(dotenv_path=dotenv_path)
 
 app = FastAPI()
 templates = Jinja2Templates(directory="app/templates")
