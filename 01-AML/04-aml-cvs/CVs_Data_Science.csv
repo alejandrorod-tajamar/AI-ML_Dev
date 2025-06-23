@@ -1,0 +1,201 @@
+id_candidato,texto_cv,puesto_solicitado,años_experiencia,universidad_origen,decision_historica
+1,"Experto en Python, SQL y Spark. Desarrollo de ETLs complejas y pipelines de datos con Airflow. Experiencia en AWS (S3, Redshift) y modelado de datos dimensional.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+2,"Sólidos conocimientos de Python para análisis de datos (Pandas, NumPy) y SQL. He completado varios proyectos de ETL y dashboards en Power BI. Formación intensiva en cloud.",Data Engineer,2,Bootcamp Online,Rechazado
+3,"Desarrollo de modelos de Machine Learning con Scikit-learn y TensorFlow. Experiencia en MLOps, usando Docker y Kubernetes para el despliegue de modelos. Fuerte base matemática.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+4,"Graduado con conocimientos en Python, SQL y algoritmos de Machine Learning. Proyecto final de carrera sobre sistemas de recomendación. Busco mi primera oportunidad.",Data Scientist,0,Universidad Regional,Rechazado
+5,"Científico de datos con experiencia en modelos de clasificación y regresión. Uso diario de Python, R y SQL. Creación de visualizaciones interactivas con Tableau para comunicar resultados.",Data Scientist,3,Universidad Regional,Aceptado
+6,"Creación y mantenimiento de la infraestructura de datos de la empresa. Optimización de consultas en SQL y automatización de flujos de trabajo con Airflow. Experiencia en GCP.",Data Engineer,6,Universidad Politécnica de Élite,Aceptado
+7,"Apasionado del Deep Learning, con experiencia en Keras y PyTorch. Proyectos personales con Computer Vision (CNNs). Finalicé un bootcamp muy completo sobre IA.",ML Engineer,1,Bootcamp Online,Rechazado
+8,"Análisis exploratorio de datos, A/B testing y modelado predictivo. Experiencia en el sector retail para optimizar inventarios. Manejo de Python, SQL y Power BI.",Data Scientist,4,Universidad Regional,Rechazado
+9,"Especialista en MLOps. Diseño e implementación de pipelines de CI/CD para modelos de Machine Learning. Uso de Jenkins, Docker y Azure ML.",ML Engineer,5,Universidad Politécnica de Élite,Aceptado
+10,"Data Engineer con foco en streaming de datos usando Kafka y Spark Streaming. Construcción de Data Lakes en Azure (ADLS Gen2).",Data Engineer,4,Universidad Regional,Aceptado
+11,"Finalicé un bootcamp de 9 meses en Data Science. Fuerte en SQL, Python y Machine Learning. Portfolio de 5 proyectos en GitHub. Alta capacidad de aprendizaje.",Data Scientist,0,Bootcamp Online,Rechazado
+12,"Líder técnico en proyectos de Machine Learning. Diseño de arquitecturas de modelos escalables en AWS SageMaker. Mentor de otros ingenieros.",ML Engineer,8,Universidad Politécnica de Élite,Aceptado
+13,"Experiencia construyendo dashboards y reportes para el equipo directivo. Extracción de datos con SQL y automatización de reportes con Python. Fuerte conocimiento de negocio.",Data Analyst,3,Universidad Regional,Aceptado
+14,"Ingeniero de datos junior. Soporte en la ingesta de datos y mantenimiento de ETLs existentes. Conocimientos de Python, SQL y scripts de shell.",Data Engineer,1,Universidad Regional,Rechazado
+15,"Desarrollo de modelos predictivos de fuga de clientes (churn). Uso de técnicas como Regresión Logística y XGBoost. Presentación de resultados a stakeholders no técnicos.",Data Scientist,2,Bootcamp Online,Aceptado
+16,"Arquitecto de soluciones de datos en la nube (Azure). Diseño de Data Warehouses modernos y plataformas de Big Data. Experto en Databricks y Synapse Analytics.",Data Engineer,10,Universidad Politécnica de Élite,Aceptado
+17,"Investigación y desarrollo de nuevos algoritmos de NLP para análisis de sentimiento. Publicaciones en conferencias. Experiencia con Transformers y BERT.",ML Engineer,3,Universidad Politécnica de Élite,Aceptado
+18,"Análisis de datos de marketing digital para optimizar campañas. Manejo de Google Analytics, SQL y Tableau. Conocimiento de modelos de atribución.",Data Scientist,2,Universidad Regional,Rechazado
+19,"Transición de carrera hacia Data Engineering. Completé bootcamp especializado en Big Data (Hadoop, Spark). Busco una oportunidad para aplicar mis nuevas habilidades.",Data Engineer,0,Bootcamp Online,Rechazado
+20,"Foco en la calidad y gobernanza del dato. Implementación de catálogos de datos y políticas de calidad. Experiencia con Python y SQL para data profiling.",Data Engineer,4,Universidad Regional,Aceptado
+21,"Especialista en integración de datos con experiencia en Talend y Pentaho. Optimización de procesos ETL y migración de bases de datos a la nube. Experiencia en AWS y Azure.",Data Engineer,7,Universidad Nacional,Aceptado
+22,"Desarrollo de modelos de clasificación y clustering. Experiencia en Python, R y visualización con Power BI. Participación en proyectos de predicción de ventas.",Data Scientist,3,Universidad Regional,Rechazado
+23,"Implementación de pipelines de datos en GCP. Automatización de reportes y análisis de datos con SQL y Python. Certificación en Google Cloud Data Engineer.",Data Engineer,2,Bootcamp Online,Rechazado
+24,"Desarrollo de modelos de NLP para análisis de texto. Experiencia en spaCy y Transformers. Publicaciones en revistas científicas.",ML Engineer,5,Universidad Politécnica de Élite,Aceptado
+25,"Científico de datos junior con experiencia en análisis exploratorio y visualización de datos. Proyectos académicos en predicción de churn.",Data Scientist,1,Universidad Regional,Rechazado
+26,"Ingeniero de datos con experiencia en Snowflake y Azure Data Factory. Diseño de arquitecturas escalables para Big Data.",Data Engineer,6,Universidad Nacional,Aceptado
+27,"Desarrollo de dashboards interactivos con Tableau y Power BI. Extracción y limpieza de datos con SQL y Python.",Data Analyst,2,Universidad Regional,Rechazado
+28,"Optimización de modelos de Machine Learning para producción. Experiencia en MLOps, Docker y CI/CD.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+29,"Implementación de soluciones de Data Lake en AWS S3 y Glue. Automatización de flujos de datos con Airflow.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+30,"Análisis de datos de ventas y marketing. Creación de modelos predictivos y segmentación de clientes.",Data Scientist,3,Universidad Regional,Aceptado
+31,"Ingeniero de datos con experiencia en Kafka y Spark. Desarrollo de aplicaciones de streaming y procesamiento en tiempo real. Certificación en Confluent.",Data Engineer,4,Universidad Politécnica de Élite,Aceptado
+32,"Desarrollo de modelos de regresión y clasificación con Python y R. Experiencia en proyectos de predicción de precios y análisis de series temporales.",Data Scientist,3,Universidad Nacional,Rechazado
+33,"Especialista en visualización de datos con Tableau. Creación de dashboards interactivos y reportes automatizados. Optimización de la presentación de datos para la toma de decisiones.",Data Analyst,5,Universidad Politécnica de Élite,Aceptado
+34,"Ingeniero de datos en proyectos de migración a la nube. Experiencia en AWS (Redshift, S3) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Regional,Aceptado
+35,"Desarrollo de modelos de Machine Learning en entornos de producción. Experiencia en optimización de modelos y monitoreo de rendimiento.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+36,"Análisis de datos financieros para la detección de fraudes. Experiencia en el sector bancario. Uso de técnicas de Machine Learning y análisis estadístico.",Data Scientist,5,Universidad Nacional,Aceptado
+37,"Implementación de soluciones de BI con Power BI y Tableau. Diseño de reportes y dashboards para la visualización de KPIs. Experiencia en SQL y DAX.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+38,"Desarrollo de ETLs y pipelines de datos en Azure. Experiencia en Data Factory, Databricks y SQL Server.",Data Engineer,5,Universidad Regional,Aceptado
+39,"Investigación en algoritmos de aprendizaje profundo para visión por computadora. Experiencia con TensorFlow y Keras. Publicaciones en conferencias internacionales.",ML Engineer,6,Universidad Politécnica de Élite,Aceptado
+40,"Análisis de datos de redes sociales para la segmentación de audiencia. Experiencia en el uso de APIs para la extracción de datos. Conocimientos en Python y R.",Data Scientist,2,Bootcamp Online,Rechazado
+41,"Desarrollo de soluciones de Data Warehouse en la nube. Experiencia en Snowflake y Google BigQuery. Optimización de consultas y modelado de datos.",Data Engineer,7,Universidad Politécnica de Élite,Aceptado
+42,"Especialista en análisis de datos con Python. Desarrollo de scripts para la automatización de reportes y análisis ad-hoc. Experiencia en el sector salud.",Data Analyst,3,Universidad Nacional,Aceptado
+43,"Ingeniero de datos con experiencia en la implementación de soluciones de Big Data. Uso de Hadoop, Spark y Kafka en entornos empresariales.",Data Engineer,8,Universidad Politécnica de Élite,Aceptado
+44,"Desarrollo de modelos de clasificación de texto y análisis de sentimientos. Experiencia en el uso de NLTK y Scikit-learn.",ML Engineer,3,Universidad Regional,Rechazado
+45,"Científico de datos con experiencia en proyectos de análisis predictivo. Uso de técnicas de Machine Learning para la optimización de procesos.",Data Scientist,4,Universidad Politécnica de Élite,Aceptado
+46,"Implementación de soluciones de análisis de datos en tiempo real. Experiencia en el uso de Apache Kafka y Spark Streaming.",Data Engineer,5,Universidad Nacional,Aceptado
+47,"Desarrollo de modelos de regresión para la predicción de ventas. Análisis de series temporales y modelado estadístico.",Data Scientist,2,Bootcamp Online,Rechazado
+48,"Especialista en visualización de datos con Power BI. Creación de informes interactivos y dashboards para la toma de decisiones empresariales.",Data Analyst,4,Universidad Politécnica de Élite,Aceptado
+49,"Ingeniero de datos con experiencia en la creación de soluciones de datos en la nube. Uso de AWS (S3, Redshift) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Nacional,Aceptado
+50,"Desarrollo de modelos de Machine Learning para la predicción de churn. Experiencia en el uso de técnicas de clasificación y regresión.",ML Engineer,3,Universidad Politécnica de Élite,Aceptado
+51,"Análisis de datos de clientes para la segmentación y personalización de ofertas. Experiencia en el uso de herramientas de BI y análisis estadístico.",Data Scientist,4,Universidad Regional,Aceptado
+52,"Implementación de soluciones de ETL en la nube. Experiencia en el uso de AWS Glue y Lambda para la automatización de flujos de datos.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+53,"Desarrollo de modelos de clasificación de imágenes y detección de objetos. Experiencia en el uso de TensorFlow y Keras.",ML Engineer,4,Universidad Nacional,Aceptado
+54,"Científico de datos con experiencia en el análisis de datos no estructurados. Uso de técnicas de NLP y herramientas como NLTK y spaCy.",Data Scientist,3,Universidad Politécnica de Élite,Aceptado
+55,"Ingeniero de datos con experiencia en la optimización de consultas y rendimiento de bases de datos. Uso de SQL y herramientas de monitoreo de rendimiento.",Data Engineer,6,Universidad Nacional,Aceptado
+56,"Desarrollo de dashboards y reportes automatizados para la visualización de KPIs. Experiencia en el uso de Power BI y Tableau.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+57,"Especialista en integración de datos con experiencia en Talend y Pentaho. Optimización de procesos ETL y migración de bases de datos a la nube. Experiencia en AWS y Azure.",Data Engineer,7,Universidad Nacional,Aceptado
+58,"Desarrollo de modelos de clasificación y clustering. Experiencia en Python, R y visualización con Power BI. Participación en proyectos de predicción de ventas.",Data Scientist,3,Universidad Regional,Rechazado
+59,"Implementación de pipelines de datos en GCP. Automatización de reportes y análisis de datos con SQL y Python. Certificación en Google Cloud Data Engineer.",Data Engineer,2,Bootcamp Online,Rechazado
+60,"Desarrollo de modelos de NLP para análisis de texto. Experiencia en spaCy y Transformers. Publicaciones en revistas científicas.",ML Engineer,5,Universidad Politécnica de Élite,Aceptado
+61,"Científico de datos junior con experiencia en análisis exploratorio y visualización de datos. Proyectos académicos en predicción de churn.",Data Scientist,1,Universidad Regional,Rechazado
+62,"Ingeniero de datos con experiencia en Snowflake y Azure Data Factory. Diseño de arquitecturas escalables para Big Data.",Data Engineer,6,Universidad Nacional,Aceptado
+63,"Desarrollo de dashboards interactivos con Tableau y Power BI. Extracción y limpieza de datos con SQL y Python.",Data Analyst,2,Universidad Regional,Rechazado
+64,"Optimización de modelos de Machine Learning para producción. Experiencia en MLOps, Docker y CI/CD.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+65,"Implementación de soluciones de Data Lake en AWS S3 y Glue. Automatización de flujos de datos con Airflow.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+66,"Análisis de datos de ventas y marketing. Creación de modelos predictivos y segmentación de clientes.",Data Scientist,3,Universidad Regional,Aceptado
+67,"Ingeniero de datos con experiencia en Kafka y Spark. Desarrollo de aplicaciones de streaming y procesamiento en tiempo real. Certificación en Confluent.",Data Engineer,4,Universidad Politécnica de Élite,Aceptado
+68,"Desarrollo de modelos de regresión y clasificación con Python y R. Experiencia en proyectos de predicción de precios y análisis de series temporales.",Data Scientist,3,Universidad Nacional,Rechazado
+69,"Especialista en visualización de datos con Tableau. Creación de dashboards interactivos y reportes automatizados. Optimización de la presentación de datos para la toma de decisiones.",Data Analyst,5,Universidad Politécnica de Élite,Aceptado
+70,"Ingeniero de datos en proyectos de migración a la nube. Experiencia en AWS (Redshift, S3) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Regional,Aceptado
+71,"Desarrollo de modelos de Machine Learning en entornos de producción. Experiencia en optimización de modelos y monitoreo de rendimiento.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+72,"Análisis de datos financieros para la detección de fraudes. Experiencia en el sector bancario. Uso de técnicas de Machine Learning y análisis estadístico.",Data Scientist,5,Universidad Nacional,Aceptado
+73,"Implementación de soluciones de BI con Power BI y Tableau. Diseño de reportes y dashboards para la visualización de KPIs. Experiencia en SQL y DAX.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+74,"Desarrollo de ETLs y pipelines de datos en Azure. Experiencia en Data Factory, Databricks y SQL Server.",Data Engineer,5,Universidad Regional,Aceptado
+75,"Investigación en algoritmos de aprendizaje profundo para visión por computadora. Experiencia con TensorFlow y Keras. Publicaciones en conferencias internacionales.",ML Engineer,6,Universidad Politécnica de Élite,Aceptado
+76,"Análisis de datos de redes sociales para la segmentación de audiencia. Experiencia en el uso de APIs para la extracción de datos. Conocimientos en Python y R.",Data Scientist,2,Bootcamp Online,Rechazado
+77,"Desarrollo de soluciones de Data Warehouse en la nube. Experiencia en Snowflake y Google BigQuery. Optimización de consultas y modelado de datos.",Data Engineer,7,Universidad Politécnica de Élite,Aceptado
+78,"Especialista en análisis de datos con Python. Desarrollo de scripts para la automatización de reportes y análisis ad-hoc. Experiencia en el sector salud.",Data Analyst,3,Universidad Nacional,Aceptado
+79,"Ingeniero de datos con experiencia en la implementación de soluciones de Big Data. Uso de Hadoop, Spark y Kafka en entornos empresariales.",Data Engineer,8,Universidad Politécnica de Élite,Aceptado
+80,"Desarrollo de modelos de clasificación de texto y análisis de sentimientos. Experiencia en el uso de NLTK y Scikit-learn.",ML Engineer,3,Universidad Regional,Rechazado
+81,"Científico de datos con experiencia en proyectos de análisis predictivo. Uso de técnicas de Machine Learning para la optimización de procesos.",Data Scientist,4,Universidad Politécnica de Élite,Aceptado
+82,"Implementación de soluciones de análisis de datos en tiempo real. Experiencia en el uso de Apache Kafka y Spark Streaming.",Data Engineer,5,Universidad Nacional,Aceptado
+83,"Desarrollo de modelos de regresión para la predicción de ventas. Análisis de series temporales y modelado estadístico.",Data Scientist,2,Bootcamp Online,Rechazado
+84,"Especialista en visualización de datos con Power BI. Creación de informes interactivos y dashboards para la toma de decisiones empresariales.",Data Analyst,4,Universidad Politécnica de Élite,Aceptado
+85,"Ingeniero de datos con experiencia en la creación de soluciones de datos en la nube. Uso de AWS (S3, Redshift) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Nacional,Aceptado
+86,"Desarrollo de modelos de Machine Learning para la predicción de churn. Experiencia en el uso de técnicas de clasificación y regresión.",ML Engineer,3,Universidad Politécnica de Élite,Aceptado
+87,"Análisis de datos de clientes para la segmentación y personalización de ofertas. Experiencia en el uso de herramientas de BI y análisis estadístico.",Data Scientist,4,Universidad Regional,Aceptado
+88,"Implementación de soluciones de ETL en la nube. Experiencia en el uso de AWS Glue y Lambda para la automatización de flujos de datos.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+89,"Desarrollo de modelos de clasificación de imágenes y detección de objetos. Experiencia en el uso de TensorFlow y Keras.",ML Engineer,4,Universidad Nacional,Aceptado
+90,"Científico de datos con experiencia en el análisis de datos no estructurados. Uso de técnicas de NLP y herramientas como NLTK y spaCy.",Data Scientist,3,Universidad Politécnica de Élite,Aceptado
+91,"Ingeniero de datos con experiencia en la optimización de consultas y rendimiento de bases de datos. Uso de SQL y herramientas de monitoreo de rendimiento.",Data Engineer,6,Universidad Nacional,Aceptado
+92,"Desarrollo de dashboards y reportes automatizados para la visualización de KPIs. Experiencia en el uso de Power BI y Tableau.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+93,"Especialista en integración de datos con experiencia en Talend y Pentaho. Optimización de procesos ETL y migración de bases de datos a la nube. Experiencia en AWS y Azure.",Data Engineer,7,Universidad Nacional,Aceptado
+94,"Desarrollo de modelos de clasificación y clustering. Experiencia en Python, R y visualización con Power BI. Participación en proyectos de predicción de ventas.",Data Scientist,3,Universidad Regional,Rechazado
+95,"Implementación de pipelines de datos en GCP. Automatización de reportes y análisis de datos con SQL y Python. Certificación en Google Cloud Data Engineer.",Data Engineer,2,Bootcamp Online,Rechazado
+96,"Desarrollo de modelos de NLP para análisis de texto. Experiencia en spaCy y Transformers. Publicaciones en revistas científicas.",ML Engineer,5,Universidad Politécnica de Élite,Aceptado
+97,"Científico de datos junior con experiencia en análisis exploratorio y visualización de datos. Proyectos académicos en predicción de churn.",Data Scientist,1,Universidad Regional,Rechazado
+98,"Ingeniero de datos con experiencia en Snowflake y Azure Data Factory. Diseño de arquitecturas escalables para Big Data.",Data Engineer,6,Universidad Nacional,Aceptado
+99,"Desarrollo de dashboards interactivos con Tableau y Power BI. Extracción y limpieza de datos con SQL y Python.",Data Analyst,2,Universidad Regional,Rechazado
+100,"Optimización de modelos de Machine Learning para producción. Experiencia en MLOps, Docker y CI/CD.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+101,"Implementación de soluciones de Data Lake en AWS S3 y Glue. Automatización de flujos de datos con Airflow.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+102,"Análisis de datos de ventas y marketing. Creación de modelos predictivos y segmentación de clientes.",Data Scientist,3,Universidad Regional,Aceptado
+103,"Ingeniero de datos con experiencia en Kafka y Spark. Desarrollo de aplicaciones de streaming y procesamiento en tiempo real. Certificación en Confluent.",Data Engineer,4,Universidad Politécnica de Élite,Aceptado
+104,"Desarrollo de modelos de regresión y clasificación con Python y R. Experiencia en proyectos de predicción de precios y análisis de series temporales.",Data Scientist,3,Universidad Nacional,Rechazado
+105,"Especialista en visualización de datos con Tableau. Creación de dashboards interactivos y reportes automatizados. Optimización de la presentación de datos para la toma de decisiones.",Data Analyst,5,Universidad Politécnica de Élite,Aceptado
+106,"Ingeniero de datos en proyectos de migración a la nube. Experiencia en AWS (Redshift, S3) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Regional,Aceptado
+107,"Desarrollo de modelos de Machine Learning en entornos de producción. Experiencia en optimización de modelos y monitoreo de rendimiento.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+108,"Análisis de datos financieros para la detección de fraudes. Experiencia en el sector bancario. Uso de técnicas de Machine Learning y análisis estadístico.",Data Scientist,5,Universidad Nacional,Aceptado
+109,"Implementación de soluciones de BI con Power BI y Tableau. Diseño de reportes y dashboards para la visualización de KPIs. Experiencia en SQL y DAX.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+110,"Desarrollo de ETLs y pipelines de datos en Azure. Experiencia en Data Factory, Databricks y SQL Server.",Data Engineer,5,Universidad Regional,Aceptado
+111,"Investigación en algoritmos de aprendizaje profundo para visión por computadora. Experiencia con TensorFlow y Keras. Publicaciones en conferencias internacionales.",ML Engineer,6,Universidad Politécnica de Élite,Aceptado
+112,"Análisis de datos de redes sociales para la segmentación de audiencia. Experiencia en el uso de APIs para la extracción de datos. Conocimientos en Python y R.",Data Scientist,2,Bootcamp Online,Rechazado
+113,"Desarrollo de soluciones de Data Warehouse en la nube. Experiencia en Snowflake y Google BigQuery. Optimización de consultas y modelado de datos.",Data Engineer,7,Universidad Politécnica de Élite,Aceptado
+114,"Especialista en análisis de datos con Python. Desarrollo de scripts para la automatización de reportes y análisis ad-hoc. Experiencia en el sector salud.",Data Analyst,3,Universidad Nacional,Aceptado
+115,"Ingeniero de datos con experiencia en la implementación de soluciones de Big Data. Uso de Hadoop, Spark y Kafka en entornos empresariales.",Data Engineer,8,Universidad Politécnica de Élite,Aceptado
+116,"Desarrollo de modelos de clasificación de texto y análisis de sentimientos. Experiencia en el uso de NLTK y Scikit-learn.",ML Engineer,3,Universidad Regional,Rechazado
+117,"Científico de datos con experiencia en proyectos de análisis predictivo. Uso de técnicas de Machine Learning para la optimización de procesos.",Data Scientist,4,Universidad Politécnica de Élite,Aceptado
+118,"Implementación de soluciones de análisis de datos en tiempo real. Experiencia en el uso de Apache Kafka y Spark Streaming.",Data Engineer,5,Universidad Nacional,Aceptado
+119,"Desarrollo de modelos de regresión para la predicción de ventas. Análisis de series temporales y modelado estadístico.",Data Scientist,2,Bootcamp Online,Rechazado
+120,"Especialista en visualización de datos con Power BI. Creación de informes interactivos y dashboards para la toma de decisiones empresariales.",Data Analyst,4,Universidad Politécnica de Élite,Aceptado
+121,"Ingeniero de datos con experiencia en la creación de soluciones de datos en la nube. Uso de AWS (S3, Redshift) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Nacional,Aceptado
+122,"Desarrollo de modelos de Machine Learning para la predicción de churn. Experiencia en el uso de técnicas de clasificación y regresión.",ML Engineer,3,Universidad Politécnica de Élite,Aceptado
+123,"Análisis de datos de clientes para la segmentación y personalización de ofertas. Experiencia en el uso de herramientas de BI y análisis estadístico.",Data Scientist,4,Universidad Regional,Aceptado
+124,"Implementación de soluciones de ETL en la nube. Experiencia en el uso de AWS Glue y Lambda para la automatización de flujos de datos.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+125,"Desarrollo de modelos de clasificación de imágenes y detección de objetos. Experiencia en el uso de TensorFlow y Keras.",ML Engineer,4,Universidad Nacional,Aceptado
+126,"Científico de datos con experiencia en el análisis de datos no estructurados. Uso de técnicas de NLP y herramientas como NLTK y spaCy.",Data Scientist,3,Universidad Politécnica de Élite,Aceptado
+127,"Ingeniero de datos con experiencia en la optimización de consultas y rendimiento de bases de datos. Uso de SQL y herramientas de monitoreo de rendimiento.",Data Engineer,6,Universidad Nacional,Aceptado
+128,"Desarrollo de dashboards y reportes automatizados para la visualización de KPIs. Experiencia en el uso de Power BI y Tableau.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+129,"Especialista en integración de datos con experiencia en Talend y Pentaho. Optimización de procesos ETL y migración de bases de datos a la nube. Experiencia en AWS y Azure.",Data Engineer,7,Universidad Nacional,Aceptado
+130,"Desarrollo de modelos de clasificación y clustering. Experiencia en Python, R y visualización con Power BI. Participación en proyectos de predicción de ventas.",Data Scientist,3,Universidad Regional,Rechazado
+131,"Implementación de pipelines de datos en GCP. Automatización de reportes y análisis de datos con SQL y Python. Certificación en Google Cloud Data Engineer.",Data Engineer,2,Bootcamp Online,Rechazado
+132,"Desarrollo de modelos de NLP para análisis de texto. Experiencia en spaCy y Transformers. Publicaciones en revistas científicas.",ML Engineer,5,Universidad Politécnica de Élite,Aceptado
+133,"Científico de datos junior con experiencia en análisis exploratorio y visualización de datos. Proyectos académicos en predicción de churn.",Data Scientist,1,Universidad Regional,Rechazado
+134,"Ingeniero de datos con experiencia en Snowflake y Azure Data Factory. Diseño de arquitecturas escalables para Big Data.",Data Engineer,6,Universidad Nacional,Aceptado
+135,"Desarrollo de dashboards interactivos con Tableau y Power BI. Extracción y limpieza de datos con SQL y Python.",Data Analyst,2,Universidad Regional,Rechazado
+136,"Optimización de modelos de Machine Learning para producción. Experiencia en MLOps, Docker y CI/CD.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+137,"Implementación de soluciones de Data Lake en AWS S3 y Glue. Automatización de flujos de datos con Airflow.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+138,"Análisis de datos de ventas y marketing. Creación de modelos predictivos y segmentación de clientes.",Data Scientist,3,Universidad Regional,Aceptado
+139,"Ingeniero de datos con experiencia en Kafka y Spark. Desarrollo de aplicaciones de streaming y procesamiento en tiempo real. Certificación en Confluent.",Data Engineer,4,Universidad Politécnica de Élite,Aceptado
+140,"Desarrollo de modelos de regresión y clasificación con Python y R. Experiencia en proyectos de predicción de precios y análisis de series temporales.",Data Scientist,3,Universidad Nacional,Rechazado
+141,"Especialista en visualización de datos con Tableau. Creación de dashboards interactivos y reportes automatizados. Optimización de la presentación de datos para la toma de decisiones.",Data Analyst,5,Universidad Politécnica de Élite,Aceptado
+142,"Ingeniero de datos en proyectos de migración a la nube. Experiencia en AWS (Redshift, S3) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Regional,Aceptado
+143,"Desarrollo de modelos de Machine Learning en entornos de producción. Experiencia en optimización de modelos y monitoreo de rendimiento.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+144,"Análisis de datos financieros para la detección de fraudes. Experiencia en el sector bancario. Uso de técnicas de Machine Learning y análisis estadístico.",Data Scientist,5,Universidad Nacional,Aceptado
+145,"Implementación de soluciones de BI con Power BI y Tableau. Diseño de reportes y dashboards para la visualización de KPIs. Experiencia en SQL y DAX.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+146,"Desarrollo de ETLs y pipelines de datos en Azure. Experiencia en Data Factory, Databricks y SQL Server.",Data Engineer,5,Universidad Regional,Aceptado
+147,"Investigación en algoritmos de aprendizaje profundo para visión por computadora. Experiencia con TensorFlow y Keras. Publicaciones en conferencias internacionales.",ML Engineer,6,Universidad Politécnica de Élite,Aceptado
+148,"Análisis de datos de redes sociales para la segmentación de audiencia. Experiencia en el uso de APIs para la extracción de datos. Conocimientos en Python y R.",Data Scientist,2,Bootcamp Online,Rechazado
+149,"Desarrollo de soluciones de Data Warehouse en la nube. Experiencia en Snowflake y Google BigQuery. Optimización de consultas y modelado de datos.",Data Engineer,7,Universidad Politécnica de Élite,Aceptado
+150,"Especialista en análisis de datos con Python. Desarrollo de scripts para la automatización de reportes y análisis ad-hoc. Experiencia en el sector salud.",Data Analyst,3,Universidad Nacional,Aceptado
+151,"Ingeniero de datos con experiencia en la implementación de soluciones de Big Data. Uso de Hadoop, Spark y Kafka en entornos empresariales.",Data Engineer,8,Universidad Politécnica de Élite,Aceptado
+152,"Desarrollo de modelos de clasificación de texto y análisis de sentimientos. Experiencia en el uso de NLTK y Scikit-learn.",ML Engineer,3,Universidad Regional,Rechazado
+153,"Científico de datos con experiencia en proyectos de análisis predictivo. Uso de técnicas de Machine Learning para la optimización de procesos.",Data Scientist,4,Universidad Politécnica de Élite,Aceptado
+154,"Implementación de soluciones de análisis de datos en tiempo real. Experiencia en el uso de Apache Kafka y Spark Streaming.",Data Engineer,5,Universidad Nacional,Aceptado
+155,"Desarrollo de modelos de regresión para la predicción de ventas. Análisis de series temporales y modelado estadístico.",Data Scientist,2,Bootcamp Online,Rechazado
+156,"Especialista en visualización de datos con Power BI. Creación de informes interactivos y dashboards para la toma de decisiones empresariales.",Data Analyst,4,Universidad Politécnica de Élite,Aceptado
+157,"Ingeniero de datos con experiencia en la creación de soluciones de datos en la nube. Uso de AWS (S3, Redshift) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Nacional,Aceptado
+158,"Desarrollo de modelos de Machine Learning para la predicción de churn. Experiencia en el uso de técnicas de clasificación y regresión.",ML Engineer,3,Universidad Politécnica de Élite,Aceptado
+159,"Análisis de datos de clientes para la segmentación y personalización de ofertas. Experiencia en el uso de herramientas de BI y análisis estadístico.",Data Scientist,4,Universidad Regional,Aceptado
+160,"Implementación de soluciones de ETL en la nube. Experiencia en el uso de AWS Glue y Lambda para la automatización de flujos de datos.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+161,"Desarrollo de modelos de clasificación de imágenes y detección de objetos. Experiencia en el uso de TensorFlow y Keras.",ML Engineer,4,Universidad Nacional,Aceptado
+162,"Científico de datos con experiencia en el análisis de datos no estructurados. Uso de técnicas de NLP y herramientas como NLTK y spaCy.",Data Scientist,3,Universidad Politécnica de Élite,Aceptado
+163,"Ingeniero de datos con experiencia en la optimización de consultas y rendimiento de bases de datos. Uso de SQL y herramientas de monitoreo de rendimiento.",Data Engineer,6,Universidad Nacional,Aceptado
+164,"Desarrollo de dashboards y reportes automatizados para la visualización de KPIs. Experiencia en el uso de Power BI y Tableau.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+165,"Especialista en integración de datos con experiencia en Talend y Pentaho. Optimización de procesos ETL y migración de bases de datos a la nube. Experiencia en AWS y Azure.",Data Engineer,7,Universidad Nacional,Aceptado
+166,"Desarrollo de modelos de clasificación y clustering. Experiencia en Python, R y visualización con Power BI. Participación en proyectos de predicción de ventas.",Data Scientist,3,Universidad Regional,Rechazado
+167,"Implementación de pipelines de datos en GCP. Automatización de reportes y análisis de datos con SQL y Python. Certificación en Google Cloud Data Engineer.",Data Engineer,2,Bootcamp Online,Rechazado
+168,"Desarrollo de modelos de NLP para análisis de texto. Experiencia en spaCy y Transformers. Publicaciones en revistas científicas.",ML Engineer,5,Universidad Politécnica de Élite,Aceptado
+169,"Científico de datos junior con experiencia en análisis exploratorio y visualización de datos. Proyectos académicos en predicción de churn.",Data Scientist,1,Universidad Regional,Rechazado
+170,"Ingeniero de datos con experiencia en Snowflake y Azure Data Factory. Diseño de arquitecturas escalables para Big Data.",Data Engineer,6,Universidad Nacional,Aceptado
+171,"Desarrollo de dashboards interactivos con Tableau y Power BI. Extracción y limpieza de datos con SQL y Python.",Data Analyst,2,Universidad Regional,Rechazado
+172,"Optimización de modelos de Machine Learning para producción. Experiencia en MLOps, Docker y CI/CD.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+173,"Implementación de soluciones de Data Lake en AWS S3 y Glue. Automatización de flujos de datos con Airflow.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+174,"Análisis de datos de ventas y marketing. Creación de modelos predictivos y segmentación de clientes.",Data Scientist,3,Universidad Regional,Aceptado
+175,"Ingeniero de datos con experiencia en Kafka y Spark. Desarrollo de aplicaciones de streaming y procesamiento en tiempo real. Certificación en Confluent.",Data Engineer,4,Universidad Politécnica de Élite,Aceptado
+176,"Desarrollo de modelos de regresión y clasificación con Python y R. Experiencia en proyectos de predicción de precios y análisis de series temporales.",Data Scientist,3,Universidad Nacional,Rechazado
+177,"Especialista en visualización de datos con Tableau. Creación de dashboards interactivos y reportes automatizados. Optimización de la presentación de datos para la toma de decisiones.",Data Analyst,5,Universidad Politécnica de Élite,Aceptado
+178,"Ingeniero de datos en proyectos de migración a la nube. Experiencia en AWS (Redshift, S3) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Regional,Aceptado
+179,"Desarrollo de modelos de Machine Learning en entornos de producción. Experiencia en optimización de modelos y monitoreo de rendimiento.",ML Engineer,4,Universidad Politécnica de Élite,Aceptado
+180,"Análisis de datos financieros para la detección de fraudes. Experiencia en el sector bancario. Uso de técnicas de Machine Learning y análisis estadístico.",Data Scientist,5,Universidad Nacional,Aceptado
+181,"Implementación de soluciones de BI con Power BI y Tableau. Diseño de reportes y dashboards para la visualización de KPIs. Experiencia en SQL y DAX.",Data Analyst,3,Universidad Politécnica de Élite,Aceptado
+182,"Desarrollo de ETLs y pipelines de datos en Azure. Experiencia en Data Factory, Databricks y SQL Server.",Data Engineer,5,Universidad Regional,Aceptado
+183,"Investigación en algoritmos de aprendizaje profundo para visión por computadora. Experiencia con TensorFlow y Keras. Publicaciones en conferencias internacionales.",ML Engineer,6,Universidad Politécnica de Élite,Aceptado
+184,"Análisis de datos de redes sociales para la segmentación de audiencia. Experiencia en el uso de APIs para la extracción de datos. Conocimientos en Python y R.",Data Scientist,2,Bootcamp Online,Rechazado
+185,"Desarrollo de soluciones de Data Warehouse en la nube. Experiencia en Snowflake y Google BigQuery. Optimización de consultas y modelado de datos.",Data Engineer,7,Universidad Politécnica de Élite,Aceptado
+186,"Especialista en análisis de datos con Python. Desarrollo de scripts para la automatización de reportes y análisis ad-hoc. Experiencia en el sector salud.",Data Analyst,3,Universidad Nacional,Aceptado
+187,"Ingeniero de datos con experiencia en la implementación de soluciones de Big Data. Uso de Hadoop, Spark y Kafka en entornos empresariales.",Data Engineer,8,Universidad Politécnica de Élite,Aceptado
+188,"Desarrollo de modelos de clasificación de texto y análisis de sentimientos. Experiencia en el uso de NLTK y Scikit-learn.",ML Engineer,3,Universidad Regional,Rechazado
+189,"Científico de datos con experiencia en proyectos de análisis predictivo. Uso de técnicas de Machine Learning para la optimización de procesos.",Data Scientist,4,Universidad Politécnica de Élite,Aceptado
+190,"Implementación de soluciones de análisis de datos en tiempo real. Experiencia en el uso de Apache Kafka y Spark Streaming.",Data Engineer,5,Universidad Nacional,Aceptado
+191,"Desarrollo de modelos de regresión para la predicción de ventas. Análisis de series temporales y modelado estadístico.",Data Scientist,2,Bootcamp Online,Rechazado
+192,"Especialista en visualización de datos con Power BI. Creación de informes interactivos y dashboards para la toma de decisiones empresariales.",Data Analyst,4,Universidad Politécnica de Élite,Aceptado
+193,"Ingeniero de datos con experiencia en la creación de soluciones de datos en la nube. Uso de AWS (S3, Redshift) y Azure (Data Lake, SQL Database).",Data Engineer,6,Universidad Nacional,Aceptado
+194,"Desarrollo de modelos de Machine Learning para la predicción de churn. Experiencia en el uso de técnicas de clasificación y regresión.",ML Engineer,3,Universidad Politécnica de Élite,Aceptado
+195,"Análisis de datos de clientes para la segmentación y personalización de ofertas. Experiencia en el uso de herramientas de BI y análisis estadístico.",Data Scientist,4,Universidad Regional,Aceptado
+196,"Implementación de soluciones de ETL en la nube. Experiencia en el uso de AWS Glue y Lambda para la automatización de flujos de datos.",Data Engineer,5,Universidad Politécnica de Élite,Aceptado
+197,"Desarrollo de modelos de clasificación de imágenes y detección de objetos. Experiencia en el uso de TensorFlow y Keras.",ML Engineer,4,Universidad Nacional,Aceptado
+198,"Científico de datos con experiencia en el análisis de datos no estructurados. Uso de técnicas de NLP y herramientas como NLTK y spaCy.",Data Scientist,3,Universidad Politécnica de Élite,Aceptado
+199,"Ingeniero de datos con experiencia en la optimización de consultas y rendimiento de bases de datos. Uso de SQL y herramientas de monitoreo de rendimiento.",Data Engineer,6,Universidad Nacional,Aceptado
+200,"Desarrollo de modelos de recomendación para e-commerce. Experiencia en Python, Spark y despliegue en la nube. Presentación de resultados a equipos de negocio.",ML Engineer,6,Universidad Nacional,Aceptado
